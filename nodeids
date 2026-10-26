@@ -1,0 +1,17 @@
+[
+  "ai_childrens_story/tests/test_app.py::test_create_page_loads",
+  "ai_childrens_story/tests/test_app.py::test_demo_page",
+  "ai_childrens_story/tests/test_app.py::test_feedback_submission",
+  "ai_childrens_story/tests/test_app.py::test_generate_story_creates_record",
+  "ai_childrens_story/tests/test_app.py::test_home_page_loads",
+  "ai_childrens_story/tests/test_app.py::test_pdf_export_route",
+  "ai_childrens_story/tests/test_app.py::test_prompt_library_page",
+  "ai_childrens_story/tests/test_app.py::test_safety_audit_page",
+  "ai_childrens_story/tests/test_app.py::test_story_editor_and_page_save",
+  "ai_childrens_story/tests/test_services.py::test_before_after_draft_comparison",
+  "ai_childrens_story/tests/test_services.py::test_pdf_generation_creates_valid_file",
+  "ai_childrens_story/tests/test_services.py::test_safety_audit_flags_inappropriate_words",
+  "ai_childrens_story/tests/test_services.py::test_safety_audit_flags_pii",
+  "ai_childrens_story/tests/test_services.py::test_safety_audit_safe_content",
+  "ai_childrens_story/tests/test_services.py::test_story_generation_builtin"
+]

@@ -1,0 +1,35 @@
+# Python cache & virtual environment
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+
+# Environment files
+.env
+
+# SQLite Database
+instance/
+*.sqlite3
+*.db
+
+# Media storage generated at runtime (keep directories with .gitkeep)
+static/images/uploads/*
+!static/images/uploads/.gitkeep
+static/images/generated/*
+!static/images/generated/.gitkeep
+static/audio/*
+!static/audio/.gitkeep
+static/pdf/*
+!static/pdf/.gitkeep
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Operating System files
+Thumbs.db
+.DS_Store
+*.log
